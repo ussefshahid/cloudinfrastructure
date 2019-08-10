@@ -1,4 +1,5 @@
 # cloudinfrastructure
+SQLI E-challenge 2018 - Session 1
 
  * L’objectif de cet exercice est de construire un outil léger pour gérer une infrastructure cloud.
  * On se limitera dans cet outil de gérer des espaces de stockage (comme Google Drive), et des
